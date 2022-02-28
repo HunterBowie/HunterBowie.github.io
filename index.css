@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+	margin: 1rem 0;
+	padding: 10px 0;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+@keyframes dance {
+	from {
+	
+	}
+	50% {
+		transform: scale(1.5);
+	}
+	to {
+		transform: rotate(45deg);
+	}
+}
+
